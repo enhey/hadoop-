@@ -5,3 +5,5 @@ result/part-r-00000中的数据A	I,K,C,B,G,F,H,O,D,点意思为好友列表中�
 执行SecDriver,把拥有A好友的人组合一下，排列出的这些人代表都拥有A好友
 map执行I-K A；I-C A；I-B A。。。。
 reduce统计最后结果
+
+执行操作前删除result和end_result文件夹
